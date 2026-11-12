@@ -10,8 +10,11 @@ namespace EPHRS
         static List<Employee> employees = new List<Employee>();   // starts empty
         static int nextId = 1001;
 
-        // Step 4 (merge conflict): edit THIS line differently on main and your feature branch
+        // CONFLICT MERGE
+
         const string AppTitle = "EPHRS - MAIN BRANCH";
+
+       
 
         static void Main()
         {
