@@ -11,7 +11,7 @@ namespace EPHRS
         static int nextId = 1001;
 
         // Step 4 (merge conflict): edit THIS line differently on main and your feature branch
-        const string AppTitle = "EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM";
+        const string AppTitle = "EPHRS - FEATURE BRANCH";
 
         static void Main()
         {
